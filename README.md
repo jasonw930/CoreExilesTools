@@ -1,6 +1,6 @@
 # Overview
 
-Core Exiles Tools is a collection of tools that automate certain parts of the browser game Core Exiles. The tool injects DOM elements to the game page so features can be easily accessed.
+Core Exiles Tools is a collection of tools that automate certain parts of the browser game Core Exiles. The tool injects DOM elements into the game page so features can be easily accessed.
 
 ## Automatic Travel
 
@@ -22,4 +22,4 @@ This tool will read user credentials from an environment file and use them to lo
 
 - Web automation is achieved using Selenium WebDriver, which allows the program to simulate user input.
 
-- The current version of this program is a rewrite of my original prototype which can be found in the version1 directory. The prototype was merely a proof of concept and has completely unmaintainable spaghetti code. The purpose of this rewrite was to implement the same features using a robust layered architecture that is easily maintainable and expandable. When the layout of the game inevitably changes, the data layer can be swapped out to easily accomdate that change. If I ever decide to interact with the backend using a different interface, then the controller layer can be swapped out.
+- The current version of this program is a rewrite of my original prototype which can be found in the version1 directory. The prototype was merely a proof of concept and has completely unmaintainable spaghetti code. The purpose of this rewrite was to implement the same features using a robust layered architecture that is easily maintainable and expandable. When the layout of the game inevitably changes, the data layer can be swapped out to easily accommodate that change. If I ever decide to interact with the backend using a different interface, then the controller layer can be swapped out.
