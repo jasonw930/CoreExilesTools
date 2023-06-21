@@ -6,13 +6,13 @@ Core Exiles Tools is a collection of tools that automate certain parts of the br
 
 After specifying the player's current location and target destination, the automatic travel tool will calculate the path with the lowest fuel cost between the two and automatically simulate user input to navigate the game world.
 
-![Travel Demo](https://github.com/jasonw930/CoreExilesTools/travel_demo.gif)
+![Travel Demo](https://github.com/jasonw930/CoreExilesTools/blob/main/travel_demo.gif)
 
 ## Automatic Login
 
 This tool will read user credentials from an environment file and use them to login to the game.
 
-![Login Demo](https://github.com/jasonw930/CoreExilesTools/login_demo.gif)
+![Login Demo](https://github.com/jasonw930/CoreExilesTools/blob/main/login_demo.gif)
 
 # Technical Details
 
